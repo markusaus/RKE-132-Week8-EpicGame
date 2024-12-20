@@ -1,0 +1,14 @@
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.exe
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.deps.json
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.runtimeconfig.json
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.dll
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\bin\Debug\net8.0\Week8EpicGame.pdb
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.AssemblyInfoInputs.cache
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.AssemblyInfo.cs
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.csproj.CoreCompileInputs.cache
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.dll
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\refint\Week8EpicGame.dll
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.pdb
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\Week8EpicGame.genruntimeconfig.cache
+C:\Users\ausma\source\repos\Week8EpicGame\Week8EpicGame\obj\Debug\net8.0\ref\Week8EpicGame.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ausma\\source\\repos\\Week8EpicGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB974B-70D9-4054-8C64-DE0C95F9833A}|Week8EpicGame\\Week8EpicGame.csproj|c:\\users\\ausma\\source\\repos\\week8epicgame\\week8epicgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BB974B-70D9-4054-8C64-DE0C95F9833A}|Week8EpicGame\\Week8EpicGame.csproj|solutionrelative:week8epicgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ausma\\source\\repos\\Week8EpicGame\\Week8EpicGame\\Program.cs",
+              "RelativeDocumentMoniker": "Week8EpicGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ausma\\source\\repos\\Week8EpicGame\\Week8EpicGame\\Program.cs",
+              "RelativeToolTip": "Week8EpicGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:15:27.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
